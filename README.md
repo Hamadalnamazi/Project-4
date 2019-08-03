@@ -1,13 +1,17 @@
-# Project-4
+
 # Udacity project
+
+
 # A closer look into the data of Seattle’s Airbnb market
+
+
 Table of Contents
 The Libraries That I Have Used
-My Project Motivation
+My Project Motivation[here](#The Libraries-2)
 File Descriptions
 Summary Of The Results
 Acknowledgements
-The Libraries That I Have Used
+# The Libraries That I Have Used
 The project was implemented using Anaconda distribution of Python 3.0. Moreover I have used the following python libraries:
 
 Collections
