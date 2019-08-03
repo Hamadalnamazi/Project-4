@@ -10,7 +10,7 @@ Table of Contents:
 
 2. [My Project Motivation](https://github.com/Hamadalnamazi/Project-4/blob/master/README.md#my-project-motivation)
 
-3. [File Descriptions](https://github.com/Hamadalnamazi/Project-4/blob/master/README.md#the-file-descriptions)
+3. [File Descriptions](https://github.com/Hamadalnamazi/Project-4/blob/master/README.md#file-descriptions)
 
 4. [Summary Of The Results](https://github.com/Hamadalnamazi/Project-4/blob/master/README.md#summary-of-the-results)
 
