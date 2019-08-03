@@ -11,7 +11,7 @@ Table of Contents
 File Descriptions
 Summary Of The Results
 Acknowledgements
-# 1 - The Libraries That I Have Used
+### - The Libraries
 The project was implemented using Anaconda distribution of Python 3.0. Moreover I have used the following python libraries:
 
 Collections
