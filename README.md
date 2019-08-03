@@ -6,12 +6,12 @@
 
 
 Table of Contents
-The Libraries That I Have Used
-My Project Motivation[here](#The Libraries-2)
+1.The Libraries That I Have Used
+2.My Project Motivation[here](#The Libraries-2)
 File Descriptions
 Summary Of The Results
 Acknowledgements
-# The Libraries That I Have Used
+# 1 - The Libraries That I Have Used
 The project was implemented using Anaconda distribution of Python 3.0. Moreover I have used the following python libraries:
 
 Collections
