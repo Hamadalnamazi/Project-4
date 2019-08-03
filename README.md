@@ -14,7 +14,7 @@ Table of Contents:
 
 4. [Summary Of The Results](https://github.com/Hamadalnamazi/Project-4/blob/master/README.md#summary-of-the-results)
 
-5. [Acknowledgements] (https://github.com/Hamadalnamazi/Project-4/blob/master/README.md#acknowledgements)
+5. [Acknowledgements](https://github.com/Hamadalnamazi/Project-4/blob/master/README.md#acknowledgements)
 
 ### The Libraries
 
