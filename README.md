@@ -14,9 +14,6 @@ Table of Contents:
 
 4. [Summary Of The Results](https://github.com/Hamadalnamazi/Project-4/blob/master/README.md#summary-of-the-results)
 
-5. [Acknowledgements](https://github.com/Hamadalnamazi/Project-4/blob/master/README.md#Acknowledgements)
-
-
 ### The Libraries
 
 The project was implemented using Anaconda distribution of Python 3.0. Moreover I have used the following python libraries:
@@ -54,13 +51,5 @@ reviews.csv: listing reviews by the users
 ### Summary Of The Results
 
 
-The following key findings from the analysis are summarized below:
+The main findings of the code can be found at the post available [here].
 
-It was found that the peak season in Seattle is during the summer months from June to August, with the absolute peak being in July.
-The "Southeast Magnolia" neighborhood was the priciest neighborhood in Seattle, followed by Portage Bay. Rainier Beach was the cheapest.
-Looking further at neighborhoods and property types, I found out that houses in Portage Bay are the most expensive followed by houses in West Queen Anne and Westlake.
-With the help of SentimentIntensityAnalyzer, I was able to map the reviews to their respective sentiments of positive, negative or neutral. I found out that 97.2% of reviews were mostly positive, with 1% negative reviews and 1.8% of reviews that were neutral.
-By exploring review sentiments by neighborhoods, I found out that Roxhill, Cedar Park and Pinehurst were the neighborhoods with the most positive reviews, while University District, Holly Park and View Ridge ranked lower.
-By exploring the worst reviews, I found out that SentimentIntensityAnalyzer associate non-English reviews with negative sentiments.
-Using LinearRegression, I was able to predict price based on a prepped and cleaned dataset, with an r2score of 0.62 on both training and test datasets.
-It was found that the features that had the most impact on price were a combination of host details as well as descriptive information about the listing.
