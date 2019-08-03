@@ -1,9 +1,10 @@
 
 # Udacity project
 
-<h4 id="login-optional-fields">
-Optional Fields
-</h4>
+Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
 # A closer look into the data of Seattle’s Airbnb market
 
 
