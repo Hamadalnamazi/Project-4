@@ -39,7 +39,8 @@ what is the relation between neighborhoods , review and price how review and nei
 
 Does accommodates make price higher and what is Top10 neighborhoods that accommodates effect in ?
 
-File Descriptions
+### File Descriptions
+
 The Jupyter notebook showcases the analysis done in order to explore the dataset, the data prepartion and wrangling as well as the building of prediction models in order to answer the questions above. The notebook contains markdown cells to help with documentation of the steps as well as to communicate findings based on each analysis.
 
 For reference an HTML version of the notebook is also available.
