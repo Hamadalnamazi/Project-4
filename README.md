@@ -53,7 +53,7 @@ reviews.csv: listing reviews by the users
 ### Summary Of The Results
 
 
-The main findings of the code can be found at the post available [here](https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f).
+The main findings of the code can be found at the post available [here](https://medium.com/@hamad.alnamazi/how-do-you-enhance-your-products-through-analysis-and-ai-47b0ff6060e2).
 
 ### Acknowledgements
 Credit to the AirBnB dataset published by AirBnB and Kaggle for hosting it, the dataset here: https://www.kaggle.com/airbnb/seattle
