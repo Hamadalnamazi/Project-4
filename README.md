@@ -1,34 +1,36 @@
 
 # Udacity project
 
-1. A numbered list
-
-     1. A nested numbered list
-     2. Which is numbered
-     
-2. Which is numbered
-
-
 # A closer look into the data of Seattle’s Airbnb market
 
 
-Table of Contents
-1.The Libraries That I Have Used
-2.My Project Motivation[here](#The Libraries-2)
-File Descriptions
-Summary Of The Results
-Acknowledgements
-### - The Libraries
+Table of Contents:
+
+1. The Libraries 
+
+2. My Project Motivation
+
+3. File Descriptions
+
+4. Summary Of The Results
+
+5. Acknowledgements
+
+
+### The Libraries
+
 The project was implemented using Anaconda distribution of Python 3.0. Moreover I have used the following python libraries:
 
-Collections
-Matplotlib
-NLTK
-NumPy
-Pandas
-Seaborn
-Sklearn
-My Project Motivation
+1. Collections
+2. Matplotlib
+3. NLTK
+4. NumPy
+5. Pandas
+6. Seaborn
+7. Sklearn
+
+### My Project Motivation
+
 I was interested in exploring the AirBnB dataset for Seattle. I wanted to better understand the pricing trends, review sentiments and pricing prediction. Some of the questions that I have analyzed are:
 
 How does the pricing increase or decrease by season?
