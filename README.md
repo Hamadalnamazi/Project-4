@@ -6,7 +6,7 @@
 
 Table of Contents:
 
-1. The Libraries 
+1. [The Libraries](https://github.com/Hamadalnamazi/Project-4/blob/master/README.md#the-libraries)
 
 2. My Project Motivation
 
