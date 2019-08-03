@@ -14,6 +14,8 @@ Table of Contents:
 
 4. [Summary Of The Results](https://github.com/Hamadalnamazi/Project-4/blob/master/README.md#summary-of-the-results)
 
+5. [Acknowledgements] (https://github.com/Hamadalnamazi/Project-4/blob/master/README.md#acknowledgements)
+
 ### The Libraries
 
 The project was implemented using Anaconda distribution of Python 3.0. Moreover I have used the following python libraries:
@@ -51,5 +53,9 @@ reviews.csv: listing reviews by the users
 ### Summary Of The Results
 
 
-The main findings of the code can be found at the post available [here].
+The main findings of the code can be found at the post available [here](https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f).
+
+### Acknowledgements
+Credit to the AirBnB dataset published by AirBnB and Kaggle for hosting it, the dataset here: https://www.kaggle.com/airbnb/seattle
+
 
