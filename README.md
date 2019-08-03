@@ -8,11 +8,11 @@ Table of Contents:
 
 1. [The Libraries](https://github.com/Hamadalnamazi/Project-4/blob/master/README.md#the-libraries)
 
-2. [My Project Motivation](https://github.com/Hamadalnamazi/Project-4/blob/master/README.md#the-My-Project-Motivation)
+2. [My Project Motivation](https://github.com/Hamadalnamazi/Project-4/blob/master/README.md#my-project-motivation)
 
-3. [File Descriptions](https://github.com/Hamadalnamazi/Project-4/blob/master/README.md#the-File-Descriptions)
+3. [File Descriptions](https://github.com/Hamadalnamazi/Project-4/blob/master/README.md#the-file-descriptions)
 
-4. [Summary Of The Results](https://github.com/Hamadalnamazi/Project-4/blob/master/README.md#Summary-Of-The-Results)
+4. [Summary Of The Results](https://github.com/Hamadalnamazi/Project-4/blob/master/README.md#summary-of-the-results)
 
 5. [Acknowledgements](https://github.com/Hamadalnamazi/Project-4/blob/master/README.md#Acknowledgements)
 
